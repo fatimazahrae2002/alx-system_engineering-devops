@@ -1,2 +1,2 @@
-#!/bin/bash 5-listfilesdigitonly
-chmod u+x 5-listfilesdigitonly
+#!/bin/bash
+ls -lna
